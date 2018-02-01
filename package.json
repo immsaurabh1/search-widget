@@ -1,0 +1,26 @@
+{
+  "name": "search-widget",
+  "version": "1.0.0",
+  "description": "Search and filter module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immsaurabh1/search-widget.git"
+  },
+  "keywords": [
+    "searchandfilter"
+  ],
+  "author": "Saurabh Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/immsaurabh1/search-widget/issues"
+  },
+  "homepage": "https://github.com/immsaurabh1/search-widget#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "http-server": "^0.11.1"
+  }
+}
